@@ -1,0 +1,45 @@
+This is a good example of how to add data to your response that's not actually present on your data object.
+
+The address field doesn't exist on the data object, but any of the sub-fields can access attribute directly from the object as if they were not nested.
+
+The Nested constructor takes a dict of fields to render as sub-fields.The imoprt diffrence between the Nested constructor and nested dicts, is the context for attributes.
+
+This setting is a dictionary with keys that correspond to the keyword arguments of json.dumps()
+
+Your Flask application may be wearing multiple hats, yet you want to handle all Flask-RESTful errors with the correct content type and error syntax as your 200-level requests.
+
+Flask-RESTful will call the handle_error() function on any 400 or 500 error that happens on a Flask-RESTful route, and leave other routes alone.You may want your app to return the correct media type on 404 Not Found errors; in which case, use the catch_all_404s parameter of the Api constructor
+
+The common directory would probably just contain a set of helper functions to fulfill common needs across your applicaiton. It could also contain, for example, any custom input/output types your resources need to get the job done.
+
+As you can imagine with a particularly large or complex API, this file ends up being very valuable as a comprehensive list of all the routes and resources in yor API.
+
+Here we'll set up a resource with multiple input parameters that exercise a larger amount of options.
+
+This field is primarily used to interpolate values from the response into other values. 
+
+In this instance, custom_greeting will always contain the value returned from the username field.
+
+In this case, we want to create a links sub-object to contain urls of related objects.
+
+Note that we passed fields.Nested another dict which is built in such a way that it would be an acceptable argument to marshal() by itself.
+
+It takes as its first parameter the name of the endpoint associated with the urls of the objects in the links sub-object
+
+Those dependencies are best passed-in through the constructor to loosely couple each other.
+
+A decorator that apply marshalling to the return values of your methods.
+
+A decorator that formats the return values of your methods with a single field.
+
+Attach any keyword arguments to the exception for later processing.
+
+A string that controls the order that the pieces of the url are concatenated when the full url is constructed.
+
+A dictionary to define a custom response for each exception or error raised during a request
+
+However, it’s still useful to keep track of emails that would have been sent when you are writing unit tests.
+
+When Augustin and Colombe again suggested that we dirve to Paris with them, and even offered to put us up, I turned to Nino, hoping that he, too, wanted nothing more than the chance to extend this time, put off the return
+
+But when we  were alone he made me a speech anxious in tone and passionate in content, whose sense was that I should trust him, that although our situation was complicated we would surely untangle it, that to do so, however, we had to go home , we couldn't  flee from Montpellier to Paris and then to who knows what other city, we had to confront our spouses and begin our life together.
