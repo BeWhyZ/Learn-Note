@@ -265,24 +265,23 @@ lenses
 dialect
 fractional
 ============================================================
-conduct 
-abruptly
-components 
-elaborate 
-digest
-algorithm 
-encrypting 
-labourers
-compulsory
-annual 
-meager 
-legacy 
-disputes
-unintentionally 
-debunked
-refund
-component
-cloak
+conduct 	v.进行，举办 n.行为，传导
+abruptly	adv.突然，猛然
+elaborate 	v.阐述，铺陈 adj.缜密
+digest		v.消化,克 n.文摘
+algorithm 	n.算法
+encrypt  	v.加密
+labourers	劳动者
+compulsory	adj.义务，必须
+annual 		adj.周年，全年 n.年刊
+meager 		adj.微薄，可怜
+legacy 		n.遗产
+disputes	n.争议，争端 v.纠纷，争论
+unintentionally 	无意中
+debunk		v.揭幕	
+refund		v.退，偿 n.偿还借款
+component 	adj.组成的，n.部件，元件
+cloak		n.披风，斗篷 v.遮掩，隐秘
 ============================================================
 rumors 		谣言，传闻，传言
 nostalgic	怀旧的，想家的
@@ -305,20 +304,35 @@ scandal		丑闻
 accuracy 	准确性
 temporal 	颞骨
 ============================================================
-Augmentation 
-Integrated 
-combat 
-lethality 
-enhance
-detect
-engage 
-immersive 
-demonstration
-reflect
+Augmentation 	增强
+Integrated 		adj.集成
+combat 			adj/n.战斗，斗争 v.反对，抗，奋斗
+lethality 		杀伤力
+enhance			v.提高，增进
+detect			v.检测，侦查	
+engage 			从事	
+immersive 		身临其境
+demonstration	示范，游行，声明
+reflect			反映，体现，思考	
 ============================================================
-asylum 避难所
-seek
-judiciary 
-prohibited
-approach 
-interruption 
+asylum 			避难所
+seek			寻求，寻找
+judiciary 		司法	，法官的
+prohibited		被禁止
+approach		途径
+interruption 	中断
+squeeze 		挤，压榨，压缩
+endorphin 		内啡肽
+pituitary		脑下垂体，黏液的
+gland			腺
+epiphany		顿悟
+galaxy			星系
+looting 		抢劫，掠夺
+treasures 		珍品，珍视，珍重
+dangerous cult  危险的邪教
+encounters 		遭遇
+mechanism 		机制
+heap 			堆
+priority		优先
+============================================================
+pattern			模式
