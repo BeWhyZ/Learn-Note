@@ -245,25 +245,24 @@ landscape
 expedition
 rear
 ============================================================
-enforce
-
+enforce         v.执行，强制
 ============================================================
-stylish
-teaser
-hints
-mayhem
-cameos 
-series
-dull 
-reveal
-trailer 
-iconic
-aspects 
-ultimately 
-prominently 
-lenses 
-dialect
-fractional
+stylish         adj.优雅，优美，时尚
+teaser          传情
+hint            v.提示，暗示 n.示意
+mayhem          混乱
+cameos          客串出演，n.宝石
+series          n.系列
+dull            adj.平淡，枯燥，单调
+reveal          v.揭示，透漏
+trailer         预告片，n.拖车
+iconic          标志性的
+aspect          n.方面
+ultimately      最终
+prominently     突出
+lens            n.镜头，镜片
+dialect         n.方言
+fractional      adj.部分的，断片的
 ============================================================
 conduct 	v.进行，举办 n.行为，传导
 abruptly	adv.突然，猛然
@@ -336,3 +335,7 @@ heap 			堆
 priority		优先
 ============================================================
 pattern			模式
+slapy tree      伸展树
+amortized       摊销，摊还
+zig-zag         曲折
+traversal
