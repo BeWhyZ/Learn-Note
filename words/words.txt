@@ -338,4 +338,21 @@ pattern			模式
 slapy tree      伸展树
 amortized       摊销，摊还
 zig-zag         曲折
-traversal
+traversal       遍历
+============================================================
+optimize        优化
+standalone      独立
+asset           财富
+enterprise      企业
+despite         尽管
+kit             套件
+task            负责，派给工作
+warehouse       仓库
+maintain        保持，维护
+texture         纹理
+stash           藏
+============================================================
+tutorial        教程
+perspectives    角度，透视，远景
+reel            卷轴
+overlay         覆盖，罩子 v.重新盖上
