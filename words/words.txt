@@ -1,175 +1,172 @@
-vast		a.巨大的,广大的,非常的
-assembly	n.与会者,集会,装配,组件
-academic	a. 学院的, 学术的, 不切实际的 n. 大学生, 大学教师, 学者
-conference	n.会议
-autumn		n.秋天,成熟期
-remain		vi.保持,逗留,剩余
-exhilarated	vt.使高兴,使愉快,鼓励
-audacity	n.大胆,厚颜无耻
-brief		n.摘要,简报 a.简短的 vt.摘要
-climate		n.气候,社会趋势,气候区
-boundary	n.边界,分界线
-burst		n.破裂,爆发 vt/vi.爆裂,突发,充满
-expand		vt.扩张, 展开 vi.展开, 张开 发展
-constituted	vt.构成,组成,任命
-proof		n.证据,证明 a.不能投入的 vt.检验,试验,校对
-neighborhood  n.附近,邻近
-tiny		a.很少的,微小的
-fragment	n.碎片,片段
-restrictive	a.限制的,约束的,限定的
-charged		a.充满强烈感情的,气氛紧张的
-chain		n.链,束缚  vt.束缚,囚禁
-accumulate 	vt.积聚,堆积 vi
-acquired	a.获得的,后天的
-derive		vt.得自 vi.起源
-marvelous	a.令人惊异的,了不起的,不平常的
-cross		n. 十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交
-border		n.边界,边缘 vt.接近 vi.接界,近似
-provisional a.暂时的,暂定的,临时的
-absolute	a.绝对的,专制的,独立的 n.绝对事物
-arguable	a.可辩论的,可论证的
-nevertheless ad.然而,虽然如此  conj.然而
-advantage	n.优点,便利,好处 vt.有助于
-mental		n.金属,本质 a.金属制的 vt.以金属覆盖
-react		vi.起反应,起作用,反攻
-insult		n.侮辱,无礼,损害 vt.损害,侮辱,攻击
-formulation  n.系统陈述,公式化,配制
-offend		vt.犯罪,冒犯,违反,进攻 vi
-trucks		n.卡车 vt.交往,对...进行交易 vi.驾驶卡车,以物易物
-stradone	n.跨坐,观望 vt.跨坐,观望 vi
-=========================================
+vast		a.巨大的,广大的,非常的  
+assembly	n.与会者,集会,装配,组件  
+academic	a. 学院的, 学术的, 不切实际的 n. 大学生, 大学教师, 学者  
+conference	n.会议  
+autumn		n.秋天,成熟期  
+remain		vi.保持,逗留,剩余  
+exhilarated	vt.使高兴,使愉快,鼓励  
+audacity	n.大胆,厚颜无耻  
+brief		n.摘要,简报 a.简短的 vt.摘要  
+climate		n.气候,社会趋势,气候区  
+boundary	n.边界,分界线  
+burst		n.破裂,爆发 vt/vi.爆裂,突发,充满  
+expand		vt.扩张, 展开 vi.展开, 张开 发展  
+constituted	vt.构成,组成,任命  
+proof		n.证据,证明 a.不能投入的 vt.检验,试验,校对  
+neighborhood  n.附近,邻近  
+tiny		a.很少的,微小的  
+fragment	n.碎片,片段  
+restrictive	a.限制的,约束的,限定的  
+charged		a.充满强烈感情的,气氛紧张的  
+chain		n.链,束缚  vt.束缚,囚禁  
+accumulate 	vt.积聚,堆积 vi  
+acquired	a.获得的,后天的  
+derive		vt.得自 vi.起源  
+marvelous	a.令人惊异的,了不起的,不平常的  
+cross		n. 十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交  
+border		n.边界,边缘 vt.接近 vi.接界,近似  
+provisional a.暂时的,暂定的,临时的  
+absolute	a.绝对的,专制的,独立的 n.绝对事物  
+arguable	a.可辩论的,可论证的  
+nevertheless ad.然而,虽然如此  conj.然而  
+advantage	n.优点,便利,好处 vt.有助于  
+mental		n.金属,本质 a.金属制的 vt.以金属覆盖  
+react		vi.起反应,起作用,反攻  
+insult		n.侮辱,无礼,损害 vt.损害,侮辱,攻击  
+formulation  n.系统陈述,公式化,配制  
+offend		vt.犯罪,冒犯,违反,进攻 vi  
+trucks		n.卡车 vt.交往,对...进行交易 vi.驾驶卡车,以物易物  
+stradone	n.跨坐,观望 vt.跨坐,观望 vi    
 --- 
-reserved	a.保留的, 预备的, 预定的, 腼腆的,
-trepidation	n.恐惧, 惊惶, 忧虑
-cling		vi.粘紧, 附着, 紧贴, 坚持
-force		n.力，力量 v.迫使，强迫
-luxury		n.豪华，奢侈，丰富
-border		n.边界，边境
-tone		n.音调
-disturbing	adj.烦扰的
-attentively	adv.注意的 carefully
-whisper		v.耳语
-ironic		adj.滑稽的，挖苦的
-comment		v.评论，注解
-participant 	n.参加者
-reputation	n.声誉，名誉
-scholar		n.学者
-mobility	n.可动性，流动性
-restaurant	n.餐厅，饭店
-abandoned	adj.弃，废
-polemical	adj.争论的
-tactfully	adv.婉转
-barriers	n.屏障，阻碍
-established	adj.既定，公认，悠久
-engaging	adj.优胜
-demeanor	n.风度
-excellent	adj.优秀，卓越
-converse	v/n.交谈，通话 	
-devotion	n.忠诚，忠心
-fill		v.填，满足，充，弥漫
-pride 		v/n.自豪
-abruptly	adv.突然，猛然
-aloof		adj.超然  adv.远离，离开
-overwhelme	v.不堪重负，压倒，覆没	
-disparage	v.贬损，蔑视，贬，作践
-prepared	adj.将，准备
-distracted	adj.分心，楞，发疯
-urging		v.催，督促，敦促
-frightened	adj.受惊，悚
-dull		adj.平淡，枯燥
-praise		v.赞美，称赞		
-practiced	adj.练，熟练，精明
-warmth		n.热情，暖和，和蔼
-applaud		v.叫好，鼓掌，赞同
-halting		v.暂停，停止，停顿
-institution	n.机构，机制，学院
-suffocating	v.窒息
-spouse		n.配偶，爱人		
-bushy		adj.浓密的，灌木一样茂密的
-pale		adj.苍白  n.桩，范围
-blond		n.金发  adj.淡黄发，明亮的
-mustache	n.胡子
-lip			n.嘴唇
-sharply		adv.大幅，截然，厉害地
-elegance	n.优雅，高雅
-=============================================
+reserved	a.保留的, 预备的, 预定的, 腼腆的,  
+trepidation	n.恐惧, 惊惶, 忧虑  
+cling		vi.粘紧, 附着, 紧贴, 坚持  
+force		n.力，力量 v.迫使，强迫  
+luxury		n.豪华，奢侈，丰富  
+border		n.边界，边境  
+tone		n.音调  
+disturbing	adj.烦扰的  
+attentively	adv.注意的 carefully  
+whisper		v.耳语  
+ironic		adj.滑稽的，挖苦的  
+comment		v.评论，注解  
+participant 	n.参加者  
+reputation	n.声誉，名誉  
+scholar		n.学者  
+mobility	n.可动性，流动性  
+restaurant	n.餐厅，饭店  
+abandoned	adj.弃，废  
+polemical	adj.争论的  
+tactfully	adv.婉转  
+barriers	n.屏障，阻碍  
+established	adj.既定，公认，悠久  
+engaging	adj.优胜  
+demeanor	n.风度  
+excellent	adj.优秀，卓越  
+converse	v/n.交谈，通话 	  
+devotion	n.忠诚，忠心  
+fill		v.填，满足，充，弥漫  
+pride 		v/n.自豪  
+abruptly	adv.突然，猛然  
+aloof		adj.超然  adv.远离，离开  
+overwhelme	v.不堪重负，压倒，覆没  	
+disparage	v.贬损，蔑视，贬，作践  
+prepared	adj.将，准备  
+distracted	adj.分心，楞，发疯  
+urging		v.催，督促，敦促  
+frightened	adj.受惊，悚  
+dull		adj.平淡，枯燥  
+praise		v.赞美，称赞		  
+practiced	adj.练，熟练，精明  
+warmth		n.热情，暖和，和蔼  
+applaud		v.叫好，鼓掌，赞同  
+halting		v.暂停，停止，停顿  
+institution	n.机构，机制，学院  
+suffocating	v.窒息  
+spouse		n.配偶，爱人  
+bushy		adj.浓密的，灌木一样茂密的  
+pale		adj.苍白  n.桩，范围  
+blond		n.金发  adj.淡黄发，明亮的  
+mustache	n.胡子  
+lip			n.嘴唇  
+sharply		adv.大幅，截然，厉害地  
+elegance	n.优雅，高雅  
 ---
-underlying	底层
-shallow		浅
-populate	填充
-opaque		adj.不透明的
-trim		v.修建,修整  adj.整齐的  n.准备，准备的程度
-bundle		n.束  v.捆
-sane 		adj.明智的，合理的
-convert		v.转换，变换
-prepare 	v.准备，预备
-syntax 		n.句法
-interpolate v.插
-slate		v.预计
-removal		n.切除，输出
-alternate	adj.备用，轮流的  v.轮流，交流
-combine		v.结合，合并，联合
-case insensitivity 不区分大小写
-insensitivity	麻木不仁
-insensitiveness	n.不敏感
-inheritance		n.遗产，承受，继承权
-invoke		v.调用，呼吁
-override	v.覆盖，废除
-individual	adj\n.个人，个体
-interpolation	n.差值
-preserve	v.保留，保存，保护
-expose		v.暴露，露出
-internal	adj.内部，内置
-envelope	n.信封
-wrap		v.包裹，包，
-marshalling	n.编组
-convenience	n.方便，便利
-functionally	功能
-explicit	adj.明确的，精
-expression	n.表达，表达式
-attach		v.连接
-implement	v.实现
-distinct	adj.不同，明显
-urgent		adj.紧急，迫切，紧迫
-concrete	adj.具体，实际
-synthesize	v.综合类，合成, 综合
-scheme		n.方案，格式, 图
-declaration	n.声明，宣言
-flat 		n.\adj. 平面\平坦的，平的
-resource	n.资源
-directly	adv.直接地
-appropriately	adv.适当
-billing		计费
-scope		n.范围，规模
-flexible	adj.灵活
-capability	n.能力，性能，功能
-correspond	v.对应，符合，相符
-respectively	adv.分别，个别
-ease 		n.缓解  v.减轻，放松，悠闲
-reference	n.参考
-accomplish	v.完成
-property	n.属性，性能
-for instance 例如
-alternatively	另外
-tricky	adj.狡猾，棘手
-in addition		此外，另外，而且, 以及
-exception	n.例外，不赞同
-encounter	v.遇到，遭遇
-certain		adj.某些，一定，肯定，确定
-scale		n.规模，比例
-maintain	v.保持，维护
-infrastructure	n.基础设施
-particularly	adv.尤其，格外
-comprehensive	adj.全面的
-exercise		v\n.行驶，练习
-valid		adj.有效，应用
-priority
-associated
-dependency 
-forward
-inject 
-concatenategg
-============================================================
+underlying	底层  
+shallow		浅  
+populate	填充  
+opaque		adj.不透明的  
+trim		v.修建,修整  adj.整齐的  n.准备，准备的程度  
+bundle		n.束  v.捆  
+sane 		adj.明智的，合理的  
+convert		v.转换，变换  
+prepare 	v.准备，预备  
+syntax 		n.句法  
+interpolate v.插  
+slate		v.预计  
+removal		n.切除，输出  
+alternate	adj.备用，轮流的  v.轮流，交流  
+combine		v.结合，合并，联合  
+case insensitivity 不区分大小写  
+insensitivity	麻木不仁  
+insensitiveness	n.不敏感  
+inheritance		n.遗产，承受，继承权  
+invoke		v.调用，呼吁  
+override	v.覆盖，废除  
+individual	adj\n.个人，个体  
+interpolation	n.差值  
+preserve	v.保留，保存，保护  
+expose		v.暴露，露出  
+internal	adj.内部，内置  
+envelope	n.信封  
+wrap		v.包裹，包，  
+marshalling	n.编组  
+convenience	n.方便，便利  
+functionally	功能  
+explicit	adj.明确的，精  
+expression	n.表达，表达式  
+attach		v.连接  
+implement	v.实现  
+distinct	adj.不同，明显  
+urgent		adj.紧急，迫切，紧迫  
+concrete	adj.具体，实际  
+synthesize	v.综合类，合成, 综合  
+scheme		n.方案，格式, 图  
+declaration	n.声明，宣言  
+flat 		n.\adj. 平面\平坦的，平的  
+resource	n.资源  
+directly	adv.直接地  
+appropriately	adv.适当  
+billing		计费  
+scope		n.范围，规模  
+flexible	adj.灵活  
+capability	n.能力，性能，功能  
+correspond	v.对应，符合，相符  
+respectively	adv.分别，个别  
+ease 		n.缓解  v.减轻，放松，悠闲  
+reference	n.参考  
+accomplish	v.完成  
+property	n.属性，性能  
+for instance 例如  
+alternatively	另外  
+tricky	adj.狡猾，棘手  
+in addition		此外，另外，而且, 以及  
+exception	n.例外，不赞同  
+encounter	v.遇到，遭遇  
+certain		adj.某些，一定，肯定，确定  
+scale		n.规模，比例  
+maintain	v.保持，维护  
+infrastructure	n.基础设施  
+particularly	adv.尤其，格外  
+comprehensive	adj.全面的  
+exercise		v\n.行驶，练习  
+valid		adj.有效，应用  
+priority    n.优先， 优先权  
+associated  adj.连带的，关联的  
+dependency  n.依赖，属地  
+forward     adv.向前  n.前锋  v.发送  adj.前面的  
+inject      v.注入  
+concatenate adj.连环  v.系  
 ---
 recipient
 suppressing 
@@ -199,7 +196,7 @@ murmured
 sincere
 node
 assume
-===========================================================
+---
 lightweight
 distribute
 via
@@ -218,141 +215,158 @@ embed
 relevant
 adapter
 batch
-============================================================
-suspend
-============================================================
-allocation
-warranty
-smash
-brand
-protocol
-tube
-resume
-institution
-nonresident
-exclusively
-errand
-extern
-external
-============================================================
-desolate
-polar
-treacherous
-terrain
-uninhabited
-indispensable
-landscape
-expedition
-rear
-============================================================
-enforce         v.执行，强制
-============================================================
-stylish         adj.优雅，优美，时尚
-teaser          传情
-hint            v.提示，暗示 n.示意
-mayhem          混乱
-cameos          客串出演，n.宝石
-series          n.系列
-dull            adj.平淡，枯燥，单调
-reveal          v.揭示，透漏
-trailer         预告片，n.拖车
-iconic          标志性的
-aspect          n.方面
-ultimately      最终
-prominently     突出
-lens            n.镜头，镜片
-dialect         n.方言
-fractional      adj.部分的，断片的
-============================================================
-conduct 	v.进行，举办 n.行为，传导
-abruptly	adv.突然，猛然
-elaborate 	v.阐述，铺陈 adj.缜密
-digest		v.消化,克 n.文摘
-algorithm 	n.算法
-encrypt  	v.加密
-labourers	劳动者
-compulsory	adj.义务，必须
-annual 		adj.周年，全年 n.年刊
-meager 		adj.微薄，可怜
-legacy 		n.遗产
-disputes	n.争议，争端 v.纠纷，争论
-unintentionally 	无意中
-debunk		v.揭幕	
-refund		v.退，偿 n.偿还借款
-component 	adj.组成的，n.部件，元件
-cloak		n.披风，斗篷 v.遮掩，隐秘
-============================================================
-rumors 		谣言，传闻，传言
-nostalgic	怀旧的，想家的
-chronology 	年表
-emit		发射，发出
-glitchy		出问题
-compliance 	合规，承诺
-melee 		乱斗
-============================================================
-widespread	广泛，普遍
-plea 		恳求
-allege 		断言
-district	区，区域
-numerous 	众多，大量
-wounds 		伤口
-warrant 	保证
-coroner		验尸官
-bribery 	受贿
-scandal		丑闻
-accuracy 	准确性
-temporal 	颞骨
-============================================================
-Augmentation 	增强
-Integrated 		adj.集成
-combat 			adj/n.战斗，斗争 v.反对，抗，奋斗
-lethality 		杀伤力
-enhance			v.提高，增进
-detect			v.检测，侦查	
-engage 			从事	
-immersive 		身临其境
-demonstration	示范，游行，声明
-reflect			反映，体现，思考	
-============================================================
-asylum 			避难所
-seek			寻求，寻找
-judiciary 		司法	，法官的
-prohibited		被禁止
-approach		途径
-interruption 	中断
-squeeze 		挤，压榨，压缩
-endorphin 		内啡肽
-pituitary		脑下垂体，黏液的
-gland			腺
-epiphany		顿悟
-galaxy			星系
-looting 		抢劫，掠夺
-treasures 		珍品，珍视，珍重
-dangerous cult  危险的邪教
-encounters 		遭遇
-mechanism 		机制
-heap 			堆
-priority		优先
-============================================================
-pattern			模式
-slapy tree      伸展树
-amortized       摊销，摊还
-zig-zag         曲折
-traversal       遍历
-============================================================
-optimize        优化
-standalone      独立
-asset           财富
-enterprise      企业
-despite         尽管
-kit             套件
-task            负责，派给工作
-warehouse       仓库
-maintain        保持，维护
-texture         纹理
-stash           藏
-============================================================
-tutorial        教程
-perspectives    角度，透视，远景
-reel            卷轴
-overlay         覆盖，罩子 v.重新盖上
+---
+suspend         v.暂停，中止，停止  
+---
+allocation      n.分配  
+warranty        n.保证，报管  
+smash           v.粉碎，扣杀  n.扣球  
+brand           n.牌，商标 v.铭记  
+protocol        n.协议  
+tube            n.管，筒  
+resume          v.恢复 n.简历，个人简历  
+institution     n.机构，制度  
+nonresident     非居民  
+exclusively     adv.只，仅仅  
+errand          n.使命，任务  
+external        adj.外部，外 n.外面，表面  
+--- 
+desolate        adj.荒凉，凄凉  
+polar           adj.极性 n.极面  
+treacherous     adj.奸诈，奸邪  
+terrain         n.地形，地势 adj.地的，地球的   
+uninhabited     adj.无人  
+indispensable   adj.必不可少，必要，必须  
+landscape       n.景观，风景  
+expedition      n.远征  
+
+============================================
+
+rear            n.后，后部 adj.后方 v.抚养，饲养  
+
+============================================
+
+enforce         v.执行，强制  
+
+============================================
+
+stylish         adj.优雅，优美，时尚  
+teaser          传情  
+hint            v.提示，暗示 n.示意  
+mayhem          混乱  
+cameos          客串出演，n.宝石  
+series          n.系列  
+dull            adj.平淡，枯燥，单调  
+reveal          v.揭示，透漏  
+trailer         预告片，n.拖车  
+iconic          标志性的  
+aspect          n.方面  
+ultimately      最终  
+prominently     突出  
+lens            n.镜头，镜片  
+dialect         n.方言  
+
+fractional      adj.部分的，断片的  
+
+============================================
+
+conduct 	v.进行，举办 n.行为，传导  
+abruptly	adv.突然，猛然  
+elaborate 	v.阐述，铺陈 adj.缜密  
+digest		v.消化,克 n.文摘  
+algorithm 	n.算法  
+encrypt  	v.加密  
+labourers	劳动者  
+compulsory	adj.义务，必须  
+annual 		adj.周年，全年 n.年刊  
+meager 		adj.微薄，可怜  
+legacy 		n.遗产  
+disputes	n.争议，争端 v.纠纷，争论  
+unintentionally 	无意中  
+debunk		v.揭幕	 
+refund		v.退，偿 n.偿还借款  
+component 	adj.组成的，n.部件，元件  
+
+cloak		n.披风，斗篷 v.遮掩，隐秘  
+
+============================================
+
+rumors 		谣言，传闻，传言  
+nostalgic	怀旧的，想家的  
+chronology 	年表  
+emit		发射，发出  
+glitchy		出问题  
+compliance 	合规，承诺  
+
+melee 		乱斗  
+
+widespread	广泛，普遍  
+plea 		恳求  
+allege 		断言  
+district	区，区域  
+numerous 	众多，大量  
+wounds 		伤口  
+warrant 	保证  
+coroner		验尸官  
+bribery 	受贿  
+scandal		丑闻  
+accuracy 	准确性  
+
+temporal 	颞骨  
+
+Augmentation 	增强  
+Integrated 		adj.集成  
+combat 			adj/n.战斗，斗争 v.反对，抗，奋斗  
+lethality 		杀伤力 
+enhance			v.提高，增进  
+detect			v.检测，侦查	  
+engage 			从事	  
+immersive 		身临其境  
+demonstration	示范，游行，声明  
+
+reflect			反映，体现，思考	 
+
+asylum 			避难所  
+seek			寻求，寻找  
+judiciary 		司法	，法官的  
+prohibited		被禁止  
+approach		途径  
+interruption 	中断  
+squeeze 		挤，压榨，压缩  
+endorphin 		内啡肽  
+pituitary		脑下垂体，黏液的  
+gland			腺  
+epiphany		顿悟  
+galaxy			星系  
+looting 		抢劫，掠夺  
+treasures 		珍品，珍视，珍重  
+dangerous cult  危险的邪教  
+encounters 		遭遇  
+mechanism 		机制  
+heap 			堆  
+
+priority		优先  
+--- 
+pattern			模式  
+slapy tree      伸展树  
+amortized       摊销，摊还  
+zig-zag         曲折  
+traversal       遍历  
+--- 
+optimize        优化  
+standalone      独立  
+asset           财富  
+enterprise      企业  
+despite         尽管  
+kit             套件  
+task            负责，派给工作  
+warehouse       仓库  
+maintain        保持，维护  
+texture         纹理  
+stash           藏  
+---
+tutorial        教程  
+perspectives    角度，透视，远景  
+reel            卷轴  
+overlay         覆盖，罩子 v.重新盖上  
+sequential      顺序  

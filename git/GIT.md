@@ -3,17 +3,18 @@
   在本地创建分支master, 然后再创建分支dev
   在本地通过直接对文件进行内容修改，然后通过git add ''|<file\> 将修改的内容提交到暂存区。  
   而暂存区则会通过命令 git commit -m'<desc\>' 来将所有暂存区的修改提交到本地分支dev。
-确认好所有commit后，将dev的所有提交 通过先切换到master分支，再使用命令git merge dev来将内容同步到master分支。  
+  确认好所有commit后，将dev的所有提交 通过先切换到master分支，再使用命令git merge dev来将内容同步到master分支。  
   最后通过git push <remote name:default_name-origin\> master
-    来将本地master分支的所有commit提交内容提交到 远端master  
-    值得注意的是，养成好习惯，在Push到远端操作前，一定要先进行一次Pull操作  
+  来将本地master分支的所有commit提交内容提交到 远端master  
+  值得注意的是，养成好习惯，在Push到远端操作前，一定要先进行一次Pull操作  
 
 **关于Fork**
 
   fork则是在远端的项目A下，自己进行fork出另一个远程库name-A。所有的Push,pull操作仍然是对自己fork的远程库name-A进行操作。然后当把一些修改的内容想要同步给项目A时，则在fork的网站(github,gitee, gitbucket等等)上申请 创建一个新的pull request。  
   然后项目A的管理员来对这个pull request进行操作是否通过将其同步到项目A。(创建的pull request会有一个#xxx 值 创建好后可以给管理员说一下)  
   然后自己在操作自己的库 name-A时，为了对项目A的代码时时更新，最好创建一个分支用来每天pull项目A，然后再将分支代码整合到自己的master。也可以偷懒直接添加个远端 upstream，每次来
-  git pull upstream master 拉取最新的项目A代码。  
+
+git pull upstream master 拉取最新的项目A代码。  
 
 #### **添加远端**
 
@@ -88,7 +89,7 @@ git reflog
 
 git reset 版本号 默认软退回,将切换到的分支到当前分支所有修改在本地保存
 ```
- 
+
 #### 创建分支以及合并
 ```
 # 创建一个分支，并且切换到该分支
@@ -103,7 +104,7 @@ git branch # 有*号标识的是当前分支
 # 切换到需要进行合并的分支
 git checkout master
 
-# 进行将指定分支合并到当前分支
+# 进行将指定分支合并到当前分支,合并后会将本次合并做一次提交。
 git merge dev
 合并信息：Fast-forward表示这次合并是快进模式，直接将master指向dev
 
@@ -180,11 +181,28 @@ git branch --set-upstream-to=origin/dev dev
 多人开发时，在本地想要push到远程分支前，一定先要进行 git pull拉取操作之后再进行Push。有冲突时，按照上面的解决方法解决冲突。  
 
 #### Rebase 变基
+
 ```
 git rebase
 ```
 rebase操作可以把本地未push的分叉提交历史整理成直线；  
 rebase的目的是使得我们在查看历史提交的变化时更容易，因为分叉的提交需要三方对比。  
+
+变基的一大好处，例如在修复一个Bug时所创建的 fix-101分支，通过git merge fix-101会有一个分叉的commit历史记录，看着会对本地的master log日志不是线性。为了使好看可以使用rebase。具体操作如下
+
+```
+git branch
+
+git checkout master
+
+git rebase dev
+
+git log --pretty=oneline --graph --abbrev-commit
+# 此时应该就是线性的log日志了
+git branch -d dev
+```
+
+
 
 #### tag 标签管理
 发布一个版本时，我们通常先在版本库中打一个标签（tag），这样，就唯一确定了打标签时刻的版本。将来无论什么时候，取某个标签的版本，就是把那个打标签的时刻的历史版本取出来。所以，标签也是版本库的一个快照。  
