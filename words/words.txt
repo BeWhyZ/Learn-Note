@@ -370,3 +370,10 @@ perspectives    角度，透视，远景
 reel            卷轴  
 overlay         覆盖，罩子 v.重新盖上  
 sequential      顺序  
+============================================
+potential       adj.潜在的
+sufficient      adj.足够，足以
+manifest        v.表现，表明 n.舱单，货单
+fiddle          v.拨弄，摆弄
+anticipation    n.预期
+accurate        adj.准确，精确

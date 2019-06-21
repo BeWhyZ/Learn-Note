@@ -130,3 +130,28 @@ Future 是一种特殊的**底层级**可等待对象，表示一个异步操作
 在 asyncio 中需要 Future 对象以便允许通过 async/await 使用基于回调的代码。
 
 通常情况下 **没有必要** 在应用层级的代码中创建 Future 对象。
+
+# class 类
+
+## \__slots__魔法方法
+
+在实例化对象时，节省内存使用。
+
+在Python中，每个类都有实例属性。默认使用一个字典来存储一个对象的实例属性。这样便允许我们在运行时取设置任意的新属性。
+
+然而，对于有着已知属性的小类来说，它可能是个瓶颈。这个字典浪费了很多内存。Python不能在对象创建时直接分配一个固定量的内存来保存所有的属性。因此如果你创建许多对象（我指的是成千上万个），它会消耗掉很多内存。
+不过还是有一个方法来规避这个问题。这个方法需要使用`__slots__`来告诉Python不要使用字典，而且只给一个固定集合的属性分配空间。
+
+测试方法 使用该类：<https://github.com/ianozsvald/ipython_memory_usage>
+
+# pip 国内源
+
+  阿里云 http://mirrors.aliyun.com/pypi/simple/ 
+  中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 
+  豆瓣(douban) http://pypi.douban.com/simple/ 
+  清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/ 
+
+```
+pip install -i 国内源
+```
+
