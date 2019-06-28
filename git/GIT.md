@@ -42,12 +42,37 @@ git log
 git reset --hard HEAD~
 ```
 
-#### 修改很久以前的一次提交
-  ```
-  # 
+#### 修改很久以前的一次commit提交
+
+  ```python
+# 修改最近一次commit提交
+# 对相应文件进行修改后，使用add
+git add <file name>
+git commit --amend # 该次commit提交会对最近一次的commit进行修改，不会产生新的log记录
+# 对最近一次commit提交的-m"<desc>"描述进行修改
+git commit --amend # 在打开的编辑器里直接对commit的comment进行修改
+
+# 修改很久之前的一次提交，比如想要修改最近三次的提交或者是这三次提交中的最老的那一次的提交
+# 同时，从别人pull merge进行的拉取在这个log中只算是一次commit。
+git rebase -i HEAD~3 # 注意 -i 必须添加这个参数
+# 然后进入文本编辑器，将要修改提交的pick改为edit，注意这里文本编辑器对Log记录的显示与git log相反
+# 将pick修改为edit后 保存退出。
+# 对文件进行修改，修改好后
+git status # 来查看状态
+git add <file name>
+git commit --amend # 完成对edit 想要修改的那次提交
+# 完成修改后
+git status # 查看状态
+git rebase --continue # 完成对历史的一条或者多条commit修改(多条便把想要修改的都pick 改为edit)
+
   ```
 
+**注意：**对很久以前一次commit提交，这里使用到了rebase的操作。通过观看git log --pretty=format:"%h %s"看到一些pull merge历史被重新整合成新的提交。看起来很怪(因为本身已经在多人开发的过程中)。所以不推荐使用这种修改历史commit的方式。
+
+**建议：** 
+
 #### 忽略文件
+
 ```
 # 使用下面命令查看.gitignore文件中的指令是否忽略了文件app.class
 git check-ignore -v app.class
@@ -243,4 +268,7 @@ git push origin :refs/tags/<tag name>
 这里有操作：<https://www.liaoxuefeng.com/wiki/896043488029600/899998870925664>
 
 #### 总结
-笔记参考自：<https://www.liaoxuefeng.com/wiki/896043488029600>
+笔记参考自：<https://www.liaoxuefeng.com/wiki/896043488029600>,
+
+[https://git-scm.com/book/zh/v1/Git-%E5%B7%A5%E5%85%B7-%E9%87%8D%E5%86%99%E5%8E%86%E5%8F%B2]()
+

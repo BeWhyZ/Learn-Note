@@ -37,7 +37,7 @@ formulation  n.系统陈述,公式化,配制
 offend		vt.犯罪,冒犯,违反,进攻 vi  
 trucks		n.卡车 vt.交往,对...进行交易 vi.驾驶卡车,以物易物  
 stradone	n.跨坐,观望 vt.跨坐,观望 vi    
---- 
+============================================
 reserved	a.保留的, 预备的, 预定的, 腼腆的,  
 trepidation	n.恐惧, 惊惶, 忧虑  
 cling		vi.粘紧, 附着, 紧贴, 坚持  
@@ -91,7 +91,7 @@ mustache	n.胡子
 lip			n.嘴唇  
 sharply		adv.大幅，截然，厉害地  
 elegance	n.优雅，高雅  
----
+============================================
 underlying	底层  
 shallow		浅  
 populate	填充  
@@ -167,7 +167,7 @@ dependency  n.依赖，属地
 forward     adv.向前  n.前锋  v.发送  adj.前面的  
 inject      v.注入  
 concatenate adj.连环  v.系  
----
+============================================
 recipient
 suppressing 
 mood
@@ -196,10 +196,10 @@ murmured
 sincere
 node
 assume
----
+============================================
 lightweight
 distribute
-via
+via         介词.通过，经由 adv.取道
 controlled
 versatile
 feature
@@ -215,9 +215,9 @@ embed
 relevant
 adapter
 batch
----
+============================================
 suspend         v.暂停，中止，停止  
----
+============================================
 allocation      n.分配  
 warranty        n.保证，报管  
 smash           v.粉碎，扣杀  n.扣球  
@@ -230,7 +230,7 @@ nonresident     非居民
 exclusively     adv.只，仅仅  
 errand          n.使命，任务  
 external        adj.外部，外 n.外面，表面  
---- 
+============================================
 desolate        adj.荒凉，凄凉  
 polar           adj.极性 n.极面  
 treacherous     adj.奸诈，奸邪  
@@ -239,17 +239,11 @@ uninhabited     adj.无人
 indispensable   adj.必不可少，必要，必须  
 landscape       n.景观，风景  
 expedition      n.远征  
-
 ============================================
-
 rear            n.后，后部 adj.后方 v.抚养，饲养  
-
 ============================================
-
 enforce         v.执行，强制  
-
 ============================================
-
 stylish         adj.优雅，优美，时尚  
 teaser          传情  
 hint            v.提示，暗示 n.示意  
@@ -265,11 +259,8 @@ ultimately      最终
 prominently     突出  
 lens            n.镜头，镜片  
 dialect         n.方言  
-
 fractional      adj.部分的，断片的  
-
 ============================================
-
 conduct 	v.进行，举办 n.行为，传导  
 abruptly	adv.突然，猛然  
 elaborate 	v.阐述，铺陈 adj.缜密  
@@ -286,20 +277,18 @@ unintentionally 	无意中
 debunk		v.揭幕	 
 refund		v.退，偿 n.偿还借款  
 component 	adj.组成的，n.部件，元件  
-
-cloak		n.披风，斗篷 v.遮掩，隐秘  
-
 ============================================
-
+cloak		n.披风，斗篷 v.遮掩，隐秘  
+============================================
 rumors 		谣言，传闻，传言  
 nostalgic	怀旧的，想家的  
 chronology 	年表  
 emit		发射，发出  
 glitchy		出问题  
 compliance 	合规，承诺  
-
+============================================
 melee 		乱斗  
-
+============================================
 widespread	广泛，普遍  
 plea 		恳求  
 allege 		断言  
@@ -311,9 +300,9 @@ coroner		验尸官
 bribery 	受贿  
 scandal		丑闻  
 accuracy 	准确性  
-
+============================================
 temporal 	颞骨  
-
+============================================
 Augmentation 	增强  
 Integrated 		adj.集成  
 combat 			adj/n.战斗，斗争 v.反对，抗，奋斗  
@@ -323,9 +312,9 @@ detect			v.检测，侦查
 engage 			从事	  
 immersive 		身临其境  
 demonstration	示范，游行，声明  
-
+============================================
 reflect			反映，体现，思考	 
-
+============================================
 asylum 			避难所  
 seek			寻求，寻找  
 judiciary 		司法	，法官的  
@@ -344,15 +333,14 @@ dangerous cult  危险的邪教
 encounters 		遭遇  
 mechanism 		机制  
 heap 			堆  
-
 priority		优先  
---- 
+============================================
 pattern			模式  
 slapy tree      伸展树  
 amortized       摊销，摊还  
 zig-zag         曲折  
 traversal       遍历  
---- 
+============================================
 optimize        优化  
 standalone      独立  
 asset           财富  
@@ -364,7 +352,7 @@ warehouse       仓库
 maintain        保持，维护  
 texture         纹理  
 stash           藏  
----
+============================================
 tutorial        教程  
 perspectives    角度，透视，远景  
 reel            卷轴  
@@ -377,3 +365,27 @@ manifest        v.表现，表明 n.舱单，货单
 fiddle          v.拨弄，摆弄
 anticipation    n.预期
 accurate        adj.准确，精确
+============================================
+periodic        定期
+condition       n.条件，状态
+synchronize     同步
+asynchronous    异步
+semaphore       n.信号
+indicate        v.表明，表示
+gather          v.收集，聚集，采集 n.搜集
+============================================
+currency        n.货币，通货
+spin            n.转动  v.拉长，转动
+echo            n.回声，回音  v.呼应，附和
+tempting        adj.迷人的，诱人的
+bogus           adj.虚假，伪
+scenario        n.脚本
+malicious       adj.恶毒
+============================================
+percolate       vt.vi. 滤, 滤过, 渗开, (使)渗透, (使)渗滤 n. 滤过液, 渗出液
+============================================
+pin             v.牵制，别
+dock            n.码头，被告席 v.剪掉，入坞，靠码头
+linear          a.线的，直线的 线性
+constrain       vt.强迫限制，约束
+rotation        n.自转，回转，轮流

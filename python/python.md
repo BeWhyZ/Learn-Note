@@ -59,10 +59,11 @@ c = {key:a[key] for key in a.keys() - {'z', 'w'}}
 
 re.split()
 
-#### 网络和进程间的通信
----
-**asyncio**  
+# 进程和线程
+## **asyncio**  
+
 协程通过 async/await来声明
+
 ```python
     import asyncio
 
@@ -131,6 +132,30 @@ Future 是一种特殊的**底层级**可等待对象，表示一个异步操作
 
 通常情况下 **没有必要** 在应用层级的代码中创建 Future 对象。
 
+
+
+## Theading
+
+### Lock
+
+**class.Lock** 实现原始锁对象的类。一旦一个线程获得一个锁，会阻塞随后尝试获得锁的所有线程，直到它被释放，任何线程都可以释放它。
+
+Lock是个工厂函数。
+
+**acquire(blocking=ture, timeout=1)**
+
+**release()**
+
+### Event
+
+判断一个线程是否已经启动。
+
+
+
+# with
+
+[with语句详情](<https://www.ibm.com/developerworks/cn/opensource/os-cn-pythonwith/index.html>)
+
 # class 类
 
 ## \__slots__魔法方法
@@ -146,12 +171,31 @@ Future 是一种特殊的**底层级**可等待对象，表示一个异步操作
 
 # pip 国内源
 
-  阿里云 http://mirrors.aliyun.com/pypi/simple/ 
-  中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 
-  豆瓣(douban) http://pypi.douban.com/simple/ 
-  清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/ 
+阿里云 http://mirrors.aliyun.com/pypi/simple/ 
+中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 
+豆瓣(douban) http://pypi.douban.com/simple/ 
+清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/ 
 
 ```
 pip install -i 国内源
+```
+
+# 日志的运用
+
+logging
+
+TimedRotatingFileHandler
+
+
+
+```python
+import logging
+from logging.handlers import TimedRotatingFileHandler
+
+def init_logger():
+	# 不存在log文件夹时，自动创建
+    # 对logging进行初始化配置
+    # 
+    
 ```
 
