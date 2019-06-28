@@ -196,6 +196,24 @@ def init_logger():
 	# 不存在log文件夹时，自动创建
     # 对logging进行初始化配置
     # 
+    if not os.path.exists(LOG_DIR):
+        os.makedirs(LOG_DIR)
+
+    log_file = os.path.join(LOG_DIR, MANAGER_CONFIG['log_file'])
+    fmt = '%(asctime)s %(filename)s[line:%(lineno)d] [Thread ID:%(thread)d] [%(levelname)s]' \
+          ' -- %(funcName)s(). %(message)s'
+    logging.basicConfig(format=fmt)
+
+    filehandler = TimedRotatingFileHandler(log_file, 'D', 1, 0, encoding='utf-8')
+    filehandler.suffix = '%Y-%m-%d.log'
+    filehandler.setFormatter(logging.Formatter(fmt))
+
+    my_logger = logging.getLogger('ms_logger')
+    my_logger.setLevel(MANAGER_CONFIG['log_level'].upper())
+    my_logger.addHandler(filehandler)
+
+    return my_logger
+
     
 ```
 
