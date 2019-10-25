@@ -217,3 +217,65 @@ def init_logger():
     
 ```
 
+# 装饰器的使用
+```python
+from functools import wraps
+
+'''总需求 构建一个装饰器其可以被传入参数。而且也可以在不传入参数的时候其拥有默认值。并且可以通过@deco进行直接调用'''
+"""wraps的使用"""
+
+
+def deco1(a):
+    """这是构造一个可以传入参数的装饰器，但是参数必须进行传入"""
+    print(a)
+
+    def deco2(func):
+        # print(b)
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            print("this is deco1")
+            func(*args, **kwargs)
+
+        return wrapper
+    return deco2
+
+def deco2(func):
+    # print(b)
+    def wrapper(*args, **kwargs):
+        print("this is deco2")
+        func(*args, **kwargs)
+    return wrapper
+
+
+def deco2_1(a=None):
+    def deco2(func):
+        print(a)
+        def wrapper(*args, **kwargs):
+            print("this is deco2")
+            func(*args, **kwargs)
+        return wrapper
+    return deco2
+
+def deco3(function=None):
+    """这是对deco1构造的装饰添加参数后 并进行返回
+        通过if function 以及wraps的使用让deco1装饰器变为可以@deco1而不需要@deco1()
+    """
+    print("deco3")
+    act_deco = deco1("deco3")
+    if function:
+        return act_deco(function)
+
+    return act_deco
+
+# @deco1
+#@deco2
+@deco2_1("哈哈")
+# @deco3
+def func(a):
+    print("cccc" + a)
+
+
+
+func("aaa")
+```
+
